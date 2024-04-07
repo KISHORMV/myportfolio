@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/myportfolio/static/css/main.e11779df.css",
+    "main.js": "/myportfolio/static/js/main.5a2deec5.js",
+    "static/media/Hero.png": "/myportfolio/static/media/Hero.0d912c0fd02884867bdd.png",
+    "static/media/about.png": "/myportfolio/static/media/about.619ff0b319a55d0c05b1.png",
+    "static/media/resume.jpg": "/myportfolio/static/media/resume.40d9ec3d0701d254f50f.jpg",
+    "static/media/Screenshot 2024-04-07 001547.png": "/myportfolio/static/media/Screenshot 2024-04-07 001547.5de423762f1a95f5595d.png",
+    "static/media/cab-booking-system.jpg": "/myportfolio/static/media/cab-booking-system.9cb3afbf477f12b2d810.jpg",
+    "index.html": "/myportfolio/index.html",
+    "main.e11779df.css.map": "/myportfolio/static/css/main.e11779df.css.map",
+    "main.5a2deec5.js.map": "/myportfolio/static/js/main.5a2deec5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e11779df.css",
+    "static/js/main.5a2deec5.js"
+  ]
+}

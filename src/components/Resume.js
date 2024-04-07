@@ -5,9 +5,9 @@ export default function Resume()
     const config = {
         link: 'https://drive.google.com/file/d/1VELdrdGgcj8PjfHiXTnbpVpx2yT5jDcb/view?usp=sharing'
     }
-    return <section id='resume' className='flex flex-col md:flex-row bg-secondary px-5'>
+    return <section id='resume' className='flex flex-col md:flex-row bg-secondary px-5 h-screen'>
         <div className='py-5 md:w-1/2 flex justify-center md:justify-end'>
-            <img className='w-[300px]' src={ResumeImg} />
+            <img className='mt-40 h-[300px] w-[300px]' src={ResumeImg} />
         </div>
         <div className='md w-1/2 flex justify-center'>
             <div className='flex flex-col justify-center text-white'>

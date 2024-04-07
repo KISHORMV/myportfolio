@@ -6,7 +6,7 @@ export default function Contact()
         email: 'kishormuthu2@gmail.com',
         phone: '+918680921127'
     }
-    return <section id='contact' className='flex flex-col bg-primary px-5 py-32'>
+    return <section id='contact' className='flex flex-col bg-primary px-10 py-32'>
         
         <div className=' flex flex-col items-center text-white'>
             
